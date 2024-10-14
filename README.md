@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Tj
+- 💻 I’m interested in ProGramming
+- 🖥️ I have been ProGrammin Lua Language for 3 Years
+- 📈 I’m looking for work
+- 🗨️ How to reach me: talk with me in Descord Server "tjfhjgfj1#5506"
+- 🎨 Fun fact: I'm also good at most of the stuff like animations, Tween, etc
+- ⚠️ Not good at: Models, Textures, Gui Images, Game Icon
